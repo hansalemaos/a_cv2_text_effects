@@ -1,5 +1,5 @@
 # Text effects for OpenCV
-
+# Font color doesn't work yet
 
 
 ```python
